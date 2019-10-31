@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "cucumber", "~> 0"
 
   spec.add_dependency "tai64", "~> 0.0"
-  spec.add_dependency "require_all", "~> 1.3"
+  spec.add_dependency "require_all", "~> 3.0.0"
 end
